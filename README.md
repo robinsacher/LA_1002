@@ -1,2 +1,2 @@
-# LA_1002
-BBBaden Informatiklernatelier
+# Mein erstes Projekt
+
